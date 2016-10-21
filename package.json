@@ -1,0 +1,19 @@
+{
+  "name": "require-path-resolve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdy23216340/requirePathResolve.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zdy23216340/requirePathResolve/issues"
+  },
+  "homepage": "https://github.com/zdy23216340/requirePathResolve#readme"
+}
