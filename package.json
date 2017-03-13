@@ -2,7 +2,7 @@
   "name": "require-path-resolve",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "cmd.js",
   "scripts": {
     "test": "npm test"
   },
